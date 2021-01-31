@@ -6,6 +6,15 @@ In the notebooks you can classify fahion images from a Kaggle dataset.
 The title of the thesis is: Architectures of neural networks for the classification of clothing: design and implementation of a comparative analysis
 
 
+## Usage
+
+The easiest way to use the notebooks is in Google Colab(https://colab.research.google.com).
+When you open the notebook just click on the button [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+
+## Installation
+
+
 ## License
 
 MIT License
