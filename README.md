@@ -9,7 +9,7 @@ The title of the thesis is: Architectures of neural networks for the classificat
 ## Usage
 
 The easiest way to use the notebooks is in [Google Colab](https://colab.research.google.com).
-When you open the notebook just click on the button ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg "Colab Logo")
+When you open the notebook just click on the button [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc) which is located at the top.
 
 
 ## Installation
