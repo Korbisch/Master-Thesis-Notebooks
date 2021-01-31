@@ -9,10 +9,18 @@ The title of the thesis is: Architectures of neural networks for the classificat
 ## Usage
 
 The easiest way to use the notebooks is in [Google Colab](https://colab.research.google.com).
-When you open the notebook just click on the button [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+When you open the notebook just click on the button ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg "Colab Logo")
 
 
 ## Installation
+
+If you decide to use the notebooks in a local environment then make sure that you have installed all the necessary frameworks:
+- Python, Version 3.6.9, https://python.org/
+-	TensorFlow, Version 2.4.0, https://tensorflow.org/
+-	Keras, Version 2.4.0, https://keras.io/
+-	Numpy, Version 1.19.5, https://numpy.org/
+-	Pandas, Version 1.1.5, https://pandas.pydata.org/
+-	Matplotlib, Version 3.2.2, https://matplotlib.org/
 
 
 ## License
