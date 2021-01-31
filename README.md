@@ -2,6 +2,8 @@
 Summary of all the notebooks from my master thesis
 
 
+## License
+
 MIT License
 
 Copyright (c) 2021 Korbinian Schleifer
