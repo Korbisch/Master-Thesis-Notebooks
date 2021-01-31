@@ -1,4 +1,4 @@
-# Master-Thesis-Notebooks
+# Master Thesis Notebooks
 
 Here you can find all the Jupyter Notebooks I used for my master thesis on the topic of neural networks and deep learning.
 In the notebooks you can classify fahion images from a Kaggle dataset.
